@@ -1,0 +1,244 @@
+********************************************
+*                                          *
+*             TOSSIM Script                *
+*                                          *
+********************************************
+Initializing mac....
+Initializing radio channels....
+    using topology file: topology.txt
+    using noise file: meyer-heavy.txt
+Initializing simulator....
+Activate debug message on channel timer
+Activate debug message on channel boot
+Activate debug message on channel radio
+Activate debug message on channel radio_send
+Activate debug message on channel radio_ack
+Activate debug message on channel radio_rec
+Creating node 1...
+>>>Will boot at time 0 [sec]
+Creating node 2...
+>>>Will boot at time 75 [sec]
+Creating radio channels...
+>>>Setting radio channel from node  1  to node  2  with gain  -60.0  dBm
+>>>Setting radio channel from node  2  to node  1  with gain  -60.0  dBm
+Initializing Closest Pattern Matching (CPM)...
+Reading noise model data file: meyer-heavy.txt
+Loading:##Done!
+>>>Creating noise model for node: 1
+>>>Creating noise model for node: 2
+Start simulation with TOSSIM! 
+
+
+
+
+DEBUG (1): Application booted.
+DEBUG (1): Radio ON on node 1!
+DEBUG (1): Timer started!
+DEBUG (1): Request sent with c = 1.
+DEBUG (1): Ack not received for request with c = 1!
+DEBUG (1): Request sent with c = 2.
+DEBUG (1): Ack not received for request with c = 2!
+DEBUG (1): Request sent with c = 3.
+DEBUG (1): Ack not received for request with c = 3!
+DEBUG (1): Request sent with c = 4.
+DEBUG (1): Ack not received for request with c = 4!
+DEBUG (1): Request sent with c = 5.
+DEBUG (1): Ack not received for request with c = 5!
+DEBUG (1): Request sent with c = 6.
+DEBUG (1): Ack not received for request with c = 6!
+DEBUG (1): Request sent with c = 7.
+DEBUG (1): Ack not received for request with c = 7!
+DEBUG (1): Request sent with c = 8.
+DEBUG (1): Ack not received for request with c = 8!
+DEBUG (1): Request sent with c = 9.
+DEBUG (1): Ack not received for request with c = 9!
+DEBUG (1): Request sent with c = 10.
+DEBUG (1): Ack not received for request with c = 10!
+DEBUG (1): Request sent with c = 11.
+DEBUG (1): Ack not received for request with c = 11!
+DEBUG (1): Request sent with c = 12.
+DEBUG (1): Ack not received for request with c = 12!
+DEBUG (1): Request sent with c = 13.
+DEBUG (1): Ack not received for request with c = 13!
+DEBUG (1): Request sent with c = 14.
+DEBUG (1): Ack not received for request with c = 14!
+DEBUG (1): Request sent with c = 15.
+DEBUG (1): Ack not received for request with c = 15!
+DEBUG (1): Request sent with c = 16.
+DEBUG (1): Ack not received for request with c = 16!
+DEBUG (1): Request sent with c = 17.
+DEBUG (1): Ack not received for request with c = 17!
+DEBUG (1): Request sent with c = 18.
+DEBUG (1): Ack not received for request with c = 18!
+DEBUG (1): Request sent with c = 19.
+DEBUG (1): Ack not received for request with c = 19!
+DEBUG (1): Request sent with c = 20.
+DEBUG (1): Ack not received for request with c = 20!
+DEBUG (1): Request sent with c = 21.
+DEBUG (1): Ack not received for request with c = 21!
+DEBUG (1): Request sent with c = 22.
+DEBUG (1): Ack not received for request with c = 22!
+DEBUG (1): Request sent with c = 23.
+DEBUG (1): Ack not received for request with c = 23!
+DEBUG (1): Request sent with c = 24.
+DEBUG (1): Ack not received for request with c = 24!
+DEBUG (1): Request sent with c = 25.
+DEBUG (1): Ack not received for request with c = 25!
+DEBUG (1): Request sent with c = 26.
+DEBUG (1): Ack not received for request with c = 26!
+DEBUG (1): Request sent with c = 27.
+DEBUG (1): Ack not received for request with c = 27!
+DEBUG (1): Request sent with c = 28.
+DEBUG (1): Ack not received for request with c = 28!
+DEBUG (1): Request sent with c = 29.
+DEBUG (1): Ack not received for request with c = 29!
+DEBUG (1): Request sent with c = 30.
+DEBUG (1): Ack not received for request with c = 30!
+DEBUG (1): Request sent with c = 31.
+DEBUG (1): Ack not received for request with c = 31!
+DEBUG (1): Request sent with c = 32.
+DEBUG (1): Ack not received for request with c = 32!
+DEBUG (1): Request sent with c = 33.
+DEBUG (1): Ack not received for request with c = 33!
+DEBUG (1): Request sent with c = 34.
+DEBUG (1): Ack not received for request with c = 34!
+DEBUG (1): Request sent with c = 35.
+DEBUG (1): Ack not received for request with c = 35!
+DEBUG (1): Request sent with c = 36.
+DEBUG (1): Ack not received for request with c = 36!
+DEBUG (1): Request sent with c = 37.
+DEBUG (1): Ack not received for request with c = 37!
+DEBUG (1): Request sent with c = 38.
+DEBUG (1): Ack not received for request with c = 38!
+DEBUG (1): Request sent with c = 39.
+DEBUG (1): Ack not received for request with c = 39!
+DEBUG (1): Request sent with c = 40.
+DEBUG (1): Ack not received for request with c = 40!
+DEBUG (1): Request sent with c = 41.
+DEBUG (1): Ack not received for request with c = 41!
+DEBUG (1): Request sent with c = 42.
+DEBUG (1): Ack not received for request with c = 42!
+DEBUG (1): Request sent with c = 43.
+DEBUG (1): Ack not received for request with c = 43!
+DEBUG (1): Request sent with c = 44.
+DEBUG (1): Ack not received for request with c = 44!
+DEBUG (1): Request sent with c = 45.
+DEBUG (1): Ack not received for request with c = 45!
+DEBUG (1): Request sent with c = 46.
+DEBUG (1): Ack not received for request with c = 46!
+DEBUG (1): Request sent with c = 47.
+DEBUG (1): Ack not received for request with c = 47!
+DEBUG (1): Request sent with c = 48.
+DEBUG (1): Ack not received for request with c = 48!
+DEBUG (1): Request sent with c = 49.
+DEBUG (1): Ack not received for request with c = 49!
+DEBUG (1): Request sent with c = 50.
+DEBUG (1): Ack not received for request with c = 50!
+DEBUG (1): Request sent with c = 51.
+DEBUG (1): Ack not received for request with c = 51!
+DEBUG (1): Request sent with c = 52.
+DEBUG (1): Ack not received for request with c = 52!
+DEBUG (1): Request sent with c = 53.
+DEBUG (1): Ack not received for request with c = 53!
+DEBUG (1): Request sent with c = 54.
+DEBUG (1): Ack not received for request with c = 54!
+DEBUG (1): Request sent with c = 55.
+DEBUG (1): Ack not received for request with c = 55!
+DEBUG (1): Request sent with c = 56.
+DEBUG (1): Ack not received for request with c = 56!
+DEBUG (1): Request sent with c = 57.
+DEBUG (1): Ack not received for request with c = 57!
+DEBUG (1): Request sent with c = 58.
+DEBUG (1): Ack not received for request with c = 58!
+DEBUG (1): Request sent with c = 59.
+DEBUG (1): Ack not received for request with c = 59!
+DEBUG (1): Request sent with c = 60.
+DEBUG (1): Ack not received for request with c = 60!
+DEBUG (1): Request sent with c = 61.
+DEBUG (1): Ack not received for request with c = 61!
+DEBUG (1): Request sent with c = 62.
+DEBUG (1): Ack not received for request with c = 62!
+DEBUG (1): Request sent with c = 63.
+DEBUG (1): Ack not received for request with c = 63!
+DEBUG (1): Request sent with c = 64.
+DEBUG (1): Ack not received for request with c = 64!
+DEBUG (1): Request sent with c = 65.
+DEBUG (1): Ack not received for request with c = 65!
+DEBUG (1): Request sent with c = 66.
+DEBUG (1): Ack not received for request with c = 66!
+DEBUG (1): Request sent with c = 67.
+DEBUG (1): Ack not received for request with c = 67!
+DEBUG (1): Request sent with c = 68.
+DEBUG (1): Ack not received for request with c = 68!
+DEBUG (1): Request sent with c = 69.
+DEBUG (1): Ack not received for request with c = 69!
+DEBUG (1): Request sent with c = 70.
+DEBUG (1): Ack not received for request with c = 70!
+DEBUG (1): Request sent with c = 71.
+DEBUG (1): Ack not received for request with c = 71!
+DEBUG (1): Request sent with c = 72.
+DEBUG (1): Ack not received for request with c = 72!
+DEBUG (1): Request sent with c = 73.
+DEBUG (1): Ack not received for request with c = 73!
+DEBUG (1): Request sent with c = 74.
+DEBUG (1): Ack not received for request with c = 74!
+DEBUG (1): Request sent with c = 75.
+DEBUG (1): Ack not received for request with c = 75!
+DEBUG (1): Request sent with c = 76.
+DEBUG (1): Ack not received for request with c = 76!
+DEBUG (2): Application booted.
+DEBUG (2): Radio ON on node 2!
+DEBUG (1): Request sent with c = 77.
+DEBUG (2): Request received with c = 77!
+DEBUG (1): Ack received for request with c = 77. This is the 1º ack received
+DEBUG (2): Response sent with c = 77 and data 50421.
+DEBUG (1): Response received with c = 77!
+DEBUG (2): Ack received for response with c = 77.
+DEBUG (1): Request sent with c = 78.
+DEBUG (2): Request received with c = 78!
+DEBUG (1): Ack received for request with c = 78. This is the 2º ack received
+DEBUG (2): Response sent with c = 78 and data 45267.
+DEBUG (1): Response received with c = 78!
+DEBUG (2): Ack received for response with c = 78.
+DEBUG (1): Request sent with c = 79.
+DEBUG (2): Request received with c = 79!
+DEBUG (1): Ack received for request with c = 79. This is the 3º ack received
+DEBUG (2): Response sent with c = 79 and data 1677.
+DEBUG (1): Response received with c = 79!
+DEBUG (2): Ack received for response with c = 79.
+DEBUG (1): Request sent with c = 80.
+DEBUG (2): Request received with c = 80!
+DEBUG (1): Ack received for request with c = 80. This is the 4º ack received
+DEBUG (2): Response sent with c = 80 and data 9343.
+DEBUG (1): Response received with c = 80!
+DEBUG (2): Ack received for response with c = 80.
+DEBUG (1): Request sent with c = 81.
+DEBUG (2): Request received with c = 81!
+DEBUG (1): Ack received for request with c = 81. This is the 5º ack received
+DEBUG (2): Response sent with c = 81 and data 9863.
+DEBUG (1): Response received with c = 81!
+DEBUG (2): Ack received for response with c = 81.
+DEBUG (1): Request sent with c = 82.
+DEBUG (2): Request received with c = 82!
+DEBUG (1): Ack received for request with c = 82. This is the 6º ack received
+DEBUG (2): Response sent with c = 82 and data 36952.
+DEBUG (1): Response received with c = 82!
+DEBUG (2): Ack received for response with c = 82.
+DEBUG (1): Request sent with c = 83.
+DEBUG (2): Request received with c = 83!
+DEBUG (1): Ack received for request with c = 83. This is the 7º ack received
+DEBUG (2): Response sent with c = 83 and data 44168.
+DEBUG (1): Response received with c = 83!
+DEBUG (2): Ack received for response with c = 83.
+DEBUG (1): Request sent with c = 84.
+DEBUG (2): Request received with c = 84!
+DEBUG (1): Ack received for request with c = 84. This is the 8º ack received
+DEBUG (1): Stopping the timer!
+DEBUG (2): Response sent with c = 84 and data 7676.
+DEBUG (1): Response received with c = 84!
+DEBUG (2): Ack received for response with c = 84.
+
+
+
+Simulation finished!
+
